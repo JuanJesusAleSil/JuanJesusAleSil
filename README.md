@@ -12,7 +12,7 @@
     <img alt="TryHackMe" title="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/></a>
 </p>
 
-- 🔭 Actualmente estoy trabajando en **documentar lo mejor posible mis prácticas del grado superior para publicar dicha documentación en unos meses**
+- 🔭 Actualmente estoy trabajando en mi blog: [**sh.juanje.net/blog**](https://sh.juanje.net/blog)
 
 - 🌱 Y estoy aprendiendo de forma autodidacta sobre **seguridad informática**
 
@@ -20,7 +20,7 @@
 
 - ⚡ Puedo ayudarte con **sistemas operativos, bases de datos, redes...**
 
-- 📫 Puedes encontrar las diferentes formas de contactarme en mi web: [**hub.juanje.net**](https://hub.juanje.net/)
+- 📫 Puedes encontrar las diferentes formas de contactarme en mi hub de enlaces: [**sh.juanje.net/hub**](https://sh.juanje.net/hub)
 
 <h2 align="center">
   <b>Algunas tecnologías y herramientas que utilizo:</b>
